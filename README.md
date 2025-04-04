@@ -1,2 +1,2 @@
-# Barber-shop
+# Barber-shop-API 
 barber-shop-ui
