@@ -1,2 +1,2 @@
 # Barber-shop-API 
-barber-shop-ui
+java API barber-shop
